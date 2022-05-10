@@ -9,7 +9,7 @@ makes the whole visable section of the website have this color*/
 body {
   background-color: lemonchiffon;
 }
-/* defines the size of the section where the header and footer are located,line height is how big the gap is above the header and footer, color is the header and footer color and background is of coursee the background of theese sections */
+/* defines the size of the section where the header and footer are located,line height is how big the gap is above the header and footer, color is the header and footer color in the off white and background is of coursee the background of theese sections is in dark blue */
 header,
 footer {
   width: 100%;
